@@ -6,7 +6,7 @@
 
 <body text="red" bgcolor="yellow">
 <center>
-<h1> Este é o meu Mustang</h1>
+<h1> Este Ã© o meu Mustang</h1>
 <p align="center">
 <img src="imagens/mustang.jpg" width="50%">
 <br>
@@ -15,9 +15,9 @@
 <h3> <a href="mailto:anderson@uol.com.br"> EMAIL </a> </h3>
 
 </center>
-<h4> este é um título H4 </h4>
-<h5> este é um título H5 </h5>
-<h6> este é um título H6 </h6>
+<h4> este Ã© um tÃ­tulo H4 </h4>
+<h5> este Ã© um tÃ­tulo H5 </h5>
+<h6> este Ã© um tÃ­tulo H6 </h6>
 
 Ola Mundo
 </body>
